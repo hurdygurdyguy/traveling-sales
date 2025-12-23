@@ -5,3 +5,4 @@
 - Instalar Django.
     pip install django
 - Añadir archivo .gitinore!
+- 
