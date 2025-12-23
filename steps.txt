@@ -1,0 +1,7 @@
+
+
+- Instalar un virtual environment para guardar las instalaciones pip.
+    python -m venv myvenv
+- Instalar Django.
+    pip install django
+- Añadir archivo .gitinore!
